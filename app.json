@@ -1,4 +1,4 @@
 {
-  "app_active": true,
-  "message": "Error 404."
+  "app_active":false,
+  "message": "Oops! The resource you are looking for is unavailable."
 }
